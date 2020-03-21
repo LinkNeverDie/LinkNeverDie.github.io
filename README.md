@@ -8,7 +8,7 @@ Vì không chuyên (nói trắng ra là thiếu hiểu biết) nên có thể kh
 __Lưu ý:__ Mình hiện không còn hoạt động ở Link Never Die nữa.
 
 ---
-## Danh mục:
+## Danh mục tiện ích:
 - [URLredirect](#urlredirect)
 ---
 ## URLredirect:
@@ -21,8 +21,7 @@ __Lưu ý:__ Mình hiện không còn hoạt động ở Link Never Die nữa.
 ```
 https://linkneverdie.github.io/html/URLredirect.html?___<url>___
 ```
-
-- __Ví dụ:__ Chuyển hướng đến trang chủ Link Never Die
+Ví dụ chuyển hướng đến trang chủ Link Never Die thì sẽ là
 
 ```
 https://linkneverdie.github.io/html/URLredirect.html?___https://linkneverdie.com/___
