@@ -3,7 +3,7 @@
 ### Giới thiệu:
 Mình là Rika - cựu admin Link Never Die. Mình tạo ra tài khoản github này để code cũng như lưu trữ vài thứ có thể sẽ có ích cho cộng đồng Link Never Die.
 
-Vì không chuyên (nói trắng ra là thiếu hiểu biết) nên có thể không tối ưu và kém chất lượng; mình cũng không rành github nốt. Hãy đóng góp ý kiến giúp mình cải thiện bằng cách gửi tin nhắn đến [trang Facebook cá nhân của mình](https://www.facebook.com/NguyenThaoRi "Rika Nguyễn").
+Vì không chuyên (nói trắng ra là thiếu hiểu biết) nên có thể không tối ưu và kém chất lượng; mình cũng không rành github nốt. Hãy đóng góp ý kiến giúp mình cải thiện bằng cách gửi tin nhắn đến [trang Facebook cá nhân của mình](https://www.facebook.com/messages/t/NguyenThaoRi "Rika Nguyễn").
 
 __Lưu ý:__ Mình hiện không còn hoạt động ở Link Never Die nữa.
 
