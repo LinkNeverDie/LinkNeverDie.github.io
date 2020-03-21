@@ -34,6 +34,6 @@ javascript:(function(){var dummy=document.createElement('input'),toclip='https:/
 __FAQ:__
 1. Tại sao không dùng các dịch vụ rút gọn link khác? Link dài và rườm rà quá đi!
 - Các dịch vụ rút gọn link đa phần chuyển hướng trực tiếp, nên sẽ không giải quyết được phần vấn đề mình đã nêu trên; bên cạnh đó thì cũng không biết họ có thu thập các link của mình để làm gì không.
-- Về việc link rườm rà thì mình không nghĩ vậy, nhưng có hơi dài thật. Mình không mã hoá biến đổi link gốc vì mình muốn nó rõ ràng, an toàn và dễ quản lí. Nghĩa là ai cũng biết mình sẽ được đưa đến đâu sau khi click vào link; chứ không phải nhìn một chuỗi kí tự mã hoá mập mờ, không biết an toàn hay không, hay là bom quảng cáo, mã độc lừa lọc.
+- Về việc link rườm rà thì mình không nghĩ vậy, nhưng hơi dài thật. Mình không mã hoá biến đổi link gốc vì mình muốn nó rõ ràng, an toàn và dễ quản lí. Nghĩa là ai cũng biết mình sẽ được đưa đến đâu sau khi click vào link; chứ không phải nhìn một chuỗi kí tự mã hoá mập mờ, không biết an toàn hay không, hay là bom quảng cáo, mã độc lừa lọc.
 ---
 
