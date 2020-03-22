@@ -1,6 +1,10 @@
 <!DOCTYPE html><html><head><script type="text/javascript">
 var url=location.href.split('___');
-if (url.length!=2){
+if (url.length!=3){
 	location.href='//'+location.hostname;
+} else if (/^https?:\/\/(\w+\.){1,4}\w+(\/(\S+)?)?$/.test(url[1])){
+	location.href=url[1];
+} else {
+	location.href=encodeURI('//'+url);
 }
 </script></html>
