@@ -1,10 +1,5 @@
 <!DOCTYPE html><html><head><script type="text/javascript">
 var url=location.href.split('___');
-if (url.length==2){
-	url=url[1];
-	location.href=/^https?:\/\/\S+$/.test(url)?url:encodeURI('//'+url);
-} else {
-	url=location.hostname;
-}
-location.href=url
+url.length!=2?location.href='//'+location.hostname:url=url[1];
+location.href=/^https?:\/\/(\w+\.){1,4}\w+(\/(\S+)?)?$/.test(url)?url:encodeURI('//'+url);
 </script></html>
